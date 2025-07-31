@@ -4,6 +4,8 @@
 ## Executive Summary  
 This dashboard offers a comprehensive view of global sales performance across four years, enabling stakeholders to assess trends, product successes, and geographic market dynamics. With a total revenue of approximately $29.34 million and 60,400 units sold globally, the dashboard provides actionable insights to optimize sales strategies and resource allocation across key markets.
 
+<img width="1451" height="813" alt="image" src="https://github.com/user-attachments/assets/44aed463-8c46-4db1-ac96-177f8402a054" />
+
 ---
 
 ## Key Insights
