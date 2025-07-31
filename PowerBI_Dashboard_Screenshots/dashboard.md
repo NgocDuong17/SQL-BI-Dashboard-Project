@@ -29,6 +29,47 @@ This dashboard offers a comprehensive view of global sales performance across fo
 
 ---
 
+#### Region Level
+<img width="1040" height="329" alt="image" src="https://github.com/user-attachments/assets/96766cda-91aa-4934-bed5-5b1321a709bf" />
+
+#### Country Level
+<img width="1043" height="324" alt="image" src="https://github.com/user-attachments/assets/71eb52b7-bc75-410e-b041-4e381e54d071" />
+
+### Territory Level
+<img width="1037" height="323" alt="image" src="https://github.com/user-attachments/assets/12eb634f-0c75-4f0b-9d19-99757f5a1931" />
+
+---
+
+## Yearly Sales Performance Breakdown
+
+Using the year filter, we can observe the detailed sales and volume trends across individual years from 2001 to 2004:
+
+- **2001**  
+  Sales totaled **$3.27 million** with just over **1,010 units sold**.  
+  Although this is significantly lower than the combined four-year figures, Sydney and Los Angeles remained strong performers. The U.S. and Australia led product dispatches, showing consistent market presence.
+  
+<img width="1444" height="814" alt="image" src="https://github.com/user-attachments/assets/96a44e4f-86c4-4d47-ba1d-26fa45a3f3aa" />
+
+- **2002**  
+  Performance improved markedly, with sales reaching **$6.53 million** and over **2,680 units sold**.  
+  This surge indicates successful business expansion or operational improvements. North America and the Pacific regions continued to dominate the sales landscape.
+
+<img width="1440" height="817" alt="image" src="https://github.com/user-attachments/assets/d12a276c-7120-4c77-b4c3-89d69f2f8c1c" />
+
+- **2003**  
+  Sales climbed to approximately **$9.79 million** with about **24,440 units sold**, marking the strongest growth year.  
+  High-performing cities stayed consistent, and London began to gain ground, signaling growing traction in the European market.
+
+<img width="1450" height="814" alt="image" src="https://github.com/user-attachments/assets/ef968642-1d73-4fd2-a211-89b3fd7a9818" />
+
+- **2004**  
+  Sales reached **$9.77 million** with approximately **32,270 units sold**.  
+  While still strong, growth started to level off. Notably, there was a sales spike in June, likely linked to seasonal shopping patterns.
+
+<img width="1439" height="809" alt="image" src="https://github.com/user-attachments/assets/f851c0fd-b27f-424f-8e52-9428cc5ef338" />
+
+---
+
 ## Recommendations
 
 ### 1. Strengthen Market Penetration in Top-Performing Cities and Territories  
