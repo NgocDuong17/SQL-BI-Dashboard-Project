@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{109495BB-7023-17AB-0301-C3A1AA30BA09}|cube-project-thi\\cube-project-thi.dwproj|C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\INFO6002 ASS2.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{109495BB-7023-17AB-0301-C3A1AA30BA09}|cube-project-thi\\cube-project-thi.dwproj|solutionrelative:cube-project-thi\\INFO6002 ASS2.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109495BB-7023-17AB-0301-C3A1AA30BA09}|cube-project-thi\\cube-project-thi.dwproj|C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\Time Data.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{109495BB-7023-17AB-0301-C3A1AA30BA09}|cube-project-thi\\cube-project-thi.dwproj|solutionrelative:cube-project-thi\\Time Data.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109495BB-7023-17AB-0301-C3A1AA30BA09}|cube-project-thi\\cube-project-thi.dwproj|C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\Customer Data.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{109495BB-7023-17AB-0301-C3A1AA30BA09}|cube-project-thi\\cube-project-thi.dwproj|solutionrelative:cube-project-thi\\Customer Data.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109495BB-7023-17AB-0301-C3A1AA30BA09}|cube-project-thi\\cube-project-thi.dwproj|C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\INFO6002 ASS2.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{109495BB-7023-17AB-0301-C3A1AA30BA09}|cube-project-thi\\cube-project-thi.dwproj|solutionrelative:cube-project-thi\\INFO6002 ASS2.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109495BB-7023-17AB-0301-C3A1AA30BA09}|cube-project-thi\\cube-project-thi.dwproj|C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\Store Data.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{109495BB-7023-17AB-0301-C3A1AA30BA09}|cube-project-thi\\cube-project-thi.dwproj|solutionrelative:cube-project-thi\\Store Data.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109495BB-7023-17AB-0301-C3A1AA30BA09}|cube-project-thi\\cube-project-thi.dwproj|C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\Product Data.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{109495BB-7023-17AB-0301-C3A1AA30BA09}|cube-project-thi\\cube-project-thi.dwproj|solutionrelative:cube-project-thi\\Product Data.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer Data.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\Customer Data.dim",
+              "RelativeDocumentMoniker": "cube-project-thi\\Customer Data.dim",
+              "ToolTip": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\Customer Data.dim [Design]",
+              "RelativeToolTip": "cube-project-thi\\Customer Data.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-29T04:46:04.969Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Time Data.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\Time Data.dim",
+              "RelativeDocumentMoniker": "cube-project-thi\\Time Data.dim",
+              "ToolTip": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\Time Data.dim [Design]",
+              "RelativeToolTip": "cube-project-thi\\Time Data.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-29T04:47:02.333Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Store Data.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\Store Data.dim",
+              "RelativeDocumentMoniker": "cube-project-thi\\Store Data.dim",
+              "ToolTip": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\Store Data.dim [Design]",
+              "RelativeToolTip": "cube-project-thi\\Store Data.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-29T04:46:26.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "INFO6002 ASS2.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\INFO6002 ASS2.dsv",
+              "RelativeDocumentMoniker": "cube-project-thi\\INFO6002 ASS2.dsv",
+              "ToolTip": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\INFO6002 ASS2.dsv [Design]",
+              "RelativeToolTip": "cube-project-thi\\INFO6002 ASS2.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-29T04:45:21.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INFO6002 ASS2.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\INFO6002 ASS2.cube",
+              "RelativeDocumentMoniker": "cube-project-thi\\INFO6002 ASS2.cube",
+              "ToolTip": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\INFO6002 ASS2.cube [Design]",
+              "RelativeToolTip": "cube-project-thi\\INFO6002 ASS2.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-29T04:47:47.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product Data.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\Product Data.dim",
+              "RelativeDocumentMoniker": "cube-project-thi\\Product Data.dim",
+              "ToolTip": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSAS\\cube-project-thi\\cube-project-thi\\Product Data.dim [Design]",
+              "RelativeToolTip": "cube-project-thi\\Product Data.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-29T04:46:16.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

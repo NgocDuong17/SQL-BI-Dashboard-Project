@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA95FD-F732-EB76-B10E-E41D81152D6F}|ssis-project\\ssis-project.dtproj|C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\TimeDataLoad.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{8EFA95FD-F732-EB76-B10E-E41D81152D6F}|ssis-project\\ssis-project.dtproj|solutionrelative:ssis-project\\TimeDataLoad.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA95FD-F732-EB76-B10E-E41D81152D6F}|ssis-project\\ssis-project.dtproj|C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\StoreLoad.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{8EFA95FD-F732-EB76-B10E-E41D81152D6F}|ssis-project\\ssis-project.dtproj|solutionrelative:ssis-project\\StoreLoad.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA95FD-F732-EB76-B10E-E41D81152D6F}|ssis-project\\ssis-project.dtproj|C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\ProductLoad.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{8EFA95FD-F732-EB76-B10E-E41D81152D6F}|ssis-project\\ssis-project.dtproj|solutionrelative:ssis-project\\ProductLoad.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA95FD-F732-EB76-B10E-E41D81152D6F}|ssis-project\\ssis-project.dtproj|C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\CustomerLoad.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{8EFA95FD-F732-EB76-B10E-E41D81152D6F}|ssis-project\\ssis-project.dtproj|solutionrelative:ssis-project\\CustomerLoad.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA95FD-F732-EB76-B10E-E41D81152D6F}|ssis-project\\ssis-project.dtproj|C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\FactTableLoad.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{8EFA95FD-F732-EB76-B10E-E41D81152D6F}|ssis-project\\ssis-project.dtproj|solutionrelative:ssis-project\\FactTableLoad.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA95FD-F732-EB76-B10E-E41D81152D6F}|ssis-project\\ssis-project.dtproj|C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{8EFA95FD-F732-EB76-B10E-E41D81152D6F}|ssis-project\\ssis-project.dtproj|solutionrelative:ssis-project\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreLoad.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\StoreLoad.dtsx",
+              "RelativeDocumentMoniker": "ssis-project\\StoreLoad.dtsx",
+              "ToolTip": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\StoreLoad.dtsx [Design]",
+              "RelativeToolTip": "ssis-project\\StoreLoad.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPaSURBVEhLtVVdaBRXFP5mdnbWZNvp\u002Bpc0iUmrSMQHnyoNrYpPVijEWFS0PvkkKCgKIYjYhxZEoZT6Uh9a\u002Bta\u002B2gYflLZECqUBi7UtIhVRNLSC68bdzWbdmb13Zjzn3ruTWe3WvPixh/s75\u002Bc759zFS0Ucx5aZ4tjJM5M7x8ZGoyiClhgypDEEZBwhDEMSGuksDGPM/PMAN2/e\u002BGTy2y8\u002Br1VKVaOmM46eOD1JihVIUSRJuxBh1GyGkd\u002BUUSOQ0RNfRvMNEdWeiOizr76PLlz\u002BpbZtz\u002BGPnaybNWqeg21G5V0LFsVl2xYyGQuOY8F1bOSyNpa4NrpzGXSRkAsYHOjPj4yMfPTu6MFxy85kzOdtSAzEFPpiEMeKWqIvxuWpadTrPq9PD7/13ri50obEgFyEAVZOqSHvgQ\u002B2b6IIXWSzOaxft46Pt6lLzyAxQMSbGdAIQsw3ZCJ1X4L0oh5IEP\u002Bo1gUKhWU4sG8U44f2Y/fOHfrD/4BjRlU17CHz/82VGdyac80JsMKqY2L3ML68dA8PRJfZBVZlfXy4dUhVWicsJJniZm5biJb2JsLuh8wN/dL7fJtzwWXcCakqojrveC9Wtb9gXqOVbCkXYYDKXyWvBXuulAgr1hHEbft8wPv/R1GSA\u002B4DSZdzsLBr0wD8JhkkhZwbxB6dA2PvDCAQupPZc8vKQ/C8cwDpHPBToGko5LPoKbhY6eWw3FuCwis59Wx43Vks7XbxWt6lOy66XUcZ4vx1QqpMdQScr99ul/HDtSJ\u002BvF7E1B9F/Pr3rPKSuRakjJWy5/RTTrF0QlsVCcm0xvjzbhU/zXqYeuzhStnD72QwpDNJNHEhMF0xiZTsvTbSCakkhxSF9oZph0N9YISX9O6RMs0956s45yt5WPUx74co9Ax6fas3jLAg1zuslBJSFPHHTBOv2j3i9mBPVUmy0PznGw8RBD6E8NHf52Fi4tTGc19fnD57/rtprNr1qfk0ZYDffKVId7Tz7\u002B1EGNo4VxXNSdiFDW\u002B\u002BirW9XXg9Ty\u002BsTed\u002BgHszFXW/hYUcELFKCXG7Z/Mgju9YiyPvr8Gh7Wuwd8uQ2peUB8G8czhkQVDJVmoBZkkeVXyUSB5VGkajRluSVRKVEZ0LpdR4viC8pyMIqCrKtSYeVwNlqDynxzTachBy6ysP2VsaSSHvcadyw6kCoH02ymhSBLOkvMzK2RAJv7RpJJ0spMDVa3\u002BhWCqbN193sepmZdzs8ZovFN5Abb6JUtknxdp7HmvPGEj\u002B9Ff0DW2J4AyY5Qux/O0T5/pX9vYw74EIVTSCG5GkdP/qRdw5P2auvkwATwH5qMc\u002BQnI//gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-24T12:38:38.436Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductLoad.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\ProductLoad.dtsx",
+              "RelativeDocumentMoniker": "ssis-project\\ProductLoad.dtsx",
+              "ToolTip": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\ProductLoad.dtsx [Design]",
+              "RelativeToolTip": "ssis-project\\ProductLoad.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPaSURBVEhLtVVdaBRXFP5mdnbWZNvp\u002Bpc0iUmrSMQHnyoNrYpPVijEWFS0PvkkKCgKIYjYhxZEoZT6Uh9a\u002Bta\u002B2gYflLZECqUBi7UtIhVRNLSC68bdzWbdmb13Zjzn3ruTWe3WvPixh/s75\u002Bc759zFS0Ucx5aZ4tjJM5M7x8ZGoyiClhgypDEEZBwhDEMSGuksDGPM/PMAN2/e\u002BGTy2y8\u002Br1VKVaOmM46eOD1JihVIUSRJuxBh1GyGkd\u002BUUSOQ0RNfRvMNEdWeiOizr76PLlz\u002BpbZtz\u002BGPnaybNWqeg21G5V0LFsVl2xYyGQuOY8F1bOSyNpa4NrpzGXSRkAsYHOjPj4yMfPTu6MFxy85kzOdtSAzEFPpiEMeKWqIvxuWpadTrPq9PD7/13ri50obEgFyEAVZOqSHvgQ\u002B2b6IIXWSzOaxft46Pt6lLzyAxQMSbGdAIQsw3ZCJ1X4L0oh5IEP\u002Bo1gUKhWU4sG8U44f2Y/fOHfrD/4BjRlU17CHz/82VGdyac80JsMKqY2L3ML68dA8PRJfZBVZlfXy4dUhVWicsJJniZm5biJb2JsLuh8wN/dL7fJtzwWXcCakqojrveC9Wtb9gXqOVbCkXYYDKXyWvBXuulAgr1hHEbft8wPv/R1GSA\u002B4DSZdzsLBr0wD8JhkkhZwbxB6dA2PvDCAQupPZc8vKQ/C8cwDpHPBToGko5LPoKbhY6eWw3FuCwis59Wx43Vks7XbxWt6lOy66XUcZ4vx1QqpMdQScr99ul/HDtSJ\u002BvF7E1B9F/Pr3rPKSuRakjJWy5/RTTrF0QlsVCcm0xvjzbhU/zXqYeuzhStnD72QwpDNJNHEhMF0xiZTsvTbSCakkhxSF9oZph0N9YISX9O6RMs0956s45yt5WPUx74co9Ax6fas3jLAg1zuslBJSFPHHTBOv2j3i9mBPVUmy0PznGw8RBD6E8NHf52Fi4tTGc19fnD57/rtprNr1qfk0ZYDffKVId7Tz7\u002B1EGNo4VxXNSdiFDW\u002B\u002BirW9XXg9Ty\u002BsTed\u002BgHszFXW/hYUcELFKCXG7Z/Mgju9YiyPvr8Gh7Wuwd8uQ2peUB8G8czhkQVDJVmoBZkkeVXyUSB5VGkajRluSVRKVEZ0LpdR4viC8pyMIqCrKtSYeVwNlqDynxzTachBy6ysP2VsaSSHvcadyw6kCoH02ymhSBLOkvMzK2RAJv7RpJJ0spMDVa3\u002BhWCqbN193sepmZdzs8ZovFN5Abb6JUtknxdp7HmvPGEj\u002B9Ff0DW2J4AyY5Qux/O0T5/pX9vYw74EIVTSCG5GkdP/qRdw5P2auvkwATwH5qMc\u002BQnI//gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-24T12:37:17.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeDataLoad.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\TimeDataLoad.dtsx",
+              "RelativeDocumentMoniker": "ssis-project\\TimeDataLoad.dtsx",
+              "ToolTip": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\TimeDataLoad.dtsx [Design]",
+              "RelativeToolTip": "ssis-project\\TimeDataLoad.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPaSURBVEhLtVVdaBRXFP5mdnbWZNvp\u002Bpc0iUmrSMQHnyoNrYpPVijEWFS0PvkkKCgKIYjYhxZEoZT6Uh9a\u002Bta\u002B2gYflLZECqUBi7UtIhVRNLSC68bdzWbdmb13Zjzn3ruTWe3WvPixh/s75\u002Bc759zFS0Ucx5aZ4tjJM5M7x8ZGoyiClhgypDEEZBwhDEMSGuksDGPM/PMAN2/e\u002BGTy2y8\u002Br1VKVaOmM46eOD1JihVIUSRJuxBh1GyGkd\u002BUUSOQ0RNfRvMNEdWeiOizr76PLlz\u002BpbZtz\u002BGPnaybNWqeg21G5V0LFsVl2xYyGQuOY8F1bOSyNpa4NrpzGXSRkAsYHOjPj4yMfPTu6MFxy85kzOdtSAzEFPpiEMeKWqIvxuWpadTrPq9PD7/13ri50obEgFyEAVZOqSHvgQ\u002B2b6IIXWSzOaxft46Pt6lLzyAxQMSbGdAIQsw3ZCJ1X4L0oh5IEP\u002Bo1gUKhWU4sG8U44f2Y/fOHfrD/4BjRlU17CHz/82VGdyac80JsMKqY2L3ML68dA8PRJfZBVZlfXy4dUhVWicsJJniZm5biJb2JsLuh8wN/dL7fJtzwWXcCakqojrveC9Wtb9gXqOVbCkXYYDKXyWvBXuulAgr1hHEbft8wPv/R1GSA\u002B4DSZdzsLBr0wD8JhkkhZwbxB6dA2PvDCAQupPZc8vKQ/C8cwDpHPBToGko5LPoKbhY6eWw3FuCwis59Wx43Vks7XbxWt6lOy66XUcZ4vx1QqpMdQScr99ul/HDtSJ\u002BvF7E1B9F/Pr3rPKSuRakjJWy5/RTTrF0QlsVCcm0xvjzbhU/zXqYeuzhStnD72QwpDNJNHEhMF0xiZTsvTbSCakkhxSF9oZph0N9YISX9O6RMs0956s45yt5WPUx74co9Ax6fas3jLAg1zuslBJSFPHHTBOv2j3i9mBPVUmy0PznGw8RBD6E8NHf52Fi4tTGc19fnD57/rtprNr1qfk0ZYDffKVId7Tz7\u002B1EGNo4VxXNSdiFDW\u002B\u002BirW9XXg9Ty\u002BsTed\u002BgHszFXW/hYUcELFKCXG7Z/Mgju9YiyPvr8Gh7Wuwd8uQ2peUB8G8czhkQVDJVmoBZkkeVXyUSB5VGkajRluSVRKVEZ0LpdR4viC8pyMIqCrKtSYeVwNlqDynxzTachBy6ysP2VsaSSHvcadyw6kCoH02ymhSBLOkvMzK2RAJv7RpJJ0spMDVa3\u002BhWCqbN193sepmZdzs8ZovFN5Abb6JUtknxdp7HmvPGEj\u002B9Ff0DW2J4AyY5Qux/O0T5/pX9vYw74EIVTSCG5GkdP/qRdw5P2auvkwATwH5qMc\u002BQnI//gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-24T12:34:32.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerLoad.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\CustomerLoad.dtsx",
+              "RelativeDocumentMoniker": "ssis-project\\CustomerLoad.dtsx",
+              "ToolTip": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\CustomerLoad.dtsx [Design]",
+              "RelativeToolTip": "ssis-project\\CustomerLoad.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPaSURBVEhLtVVdaBRXFP5mdnbWZNvp\u002Bpc0iUmrSMQHnyoNrYpPVijEWFS0PvkkKCgKIYjYhxZEoZT6Uh9a\u002Bta\u002B2gYflLZECqUBi7UtIhVRNLSC68bdzWbdmb13Zjzn3ruTWe3WvPixh/s75\u002Bc759zFS0Ucx5aZ4tjJM5M7x8ZGoyiClhgypDEEZBwhDEMSGuksDGPM/PMAN2/e\u002BGTy2y8\u002Br1VKVaOmM46eOD1JihVIUSRJuxBh1GyGkd\u002BUUSOQ0RNfRvMNEdWeiOizr76PLlz\u002BpbZtz\u002BGPnaybNWqeg21G5V0LFsVl2xYyGQuOY8F1bOSyNpa4NrpzGXSRkAsYHOjPj4yMfPTu6MFxy85kzOdtSAzEFPpiEMeKWqIvxuWpadTrPq9PD7/13ri50obEgFyEAVZOqSHvgQ\u002B2b6IIXWSzOaxft46Pt6lLzyAxQMSbGdAIQsw3ZCJ1X4L0oh5IEP\u002Bo1gUKhWU4sG8U44f2Y/fOHfrD/4BjRlU17CHz/82VGdyac80JsMKqY2L3ML68dA8PRJfZBVZlfXy4dUhVWicsJJniZm5biJb2JsLuh8wN/dL7fJtzwWXcCakqojrveC9Wtb9gXqOVbCkXYYDKXyWvBXuulAgr1hHEbft8wPv/R1GSA\u002B4DSZdzsLBr0wD8JhkkhZwbxB6dA2PvDCAQupPZc8vKQ/C8cwDpHPBToGko5LPoKbhY6eWw3FuCwis59Wx43Vks7XbxWt6lOy66XUcZ4vx1QqpMdQScr99ul/HDtSJ\u002BvF7E1B9F/Pr3rPKSuRakjJWy5/RTTrF0QlsVCcm0xvjzbhU/zXqYeuzhStnD72QwpDNJNHEhMF0xiZTsvTbSCakkhxSF9oZph0N9YISX9O6RMs0956s45yt5WPUx74co9Ax6fas3jLAg1zuslBJSFPHHTBOv2j3i9mBPVUmy0PznGw8RBD6E8NHf52Fi4tTGc19fnD57/rtprNr1qfk0ZYDffKVId7Tz7\u002B1EGNo4VxXNSdiFDW\u002B\u002BirW9XXg9Ty\u002BsTed\u002BgHszFXW/hYUcELFKCXG7Z/Mgju9YiyPvr8Gh7Wuwd8uQ2peUB8G8czhkQVDJVmoBZkkeVXyUSB5VGkajRluSVRKVEZ0LpdR4viC8pyMIqCrKtSYeVwNlqDynxzTachBy6ysP2VsaSSHvcadyw6kCoH02ymhSBLOkvMzK2RAJv7RpJJ0spMDVa3\u002BhWCqbN193sepmZdzs8ZovFN5Abb6JUtknxdp7HmvPGEj\u002B9Ff0DW2J4AyY5Qux/O0T5/pX9vYw74EIVTSCG5GkdP/qRdw5P2auvkwATwH5qMc\u002BQnI//gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-24T12:31:34.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FactTableLoad.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\FactTableLoad.dtsx",
+              "RelativeDocumentMoniker": "ssis-project\\FactTableLoad.dtsx",
+              "ToolTip": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\FactTableLoad.dtsx [Design]",
+              "RelativeToolTip": "ssis-project\\FactTableLoad.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPaSURBVEhLtVVdaBRXFP5mdnbWZNvp\u002Bpc0iUmrSMQHnyoNrYpPVijEWFS0PvkkKCgKIYjYhxZEoZT6Uh9a\u002Bta\u002B2gYflLZECqUBi7UtIhVRNLSC68bdzWbdmb13Zjzn3ruTWe3WvPixh/s75\u002Bc759zFS0Ucx5aZ4tjJM5M7x8ZGoyiClhgypDEEZBwhDEMSGuksDGPM/PMAN2/e\u002BGTy2y8\u002Br1VKVaOmM46eOD1JihVIUSRJuxBh1GyGkd\u002BUUSOQ0RNfRvMNEdWeiOizr76PLlz\u002BpbZtz\u002BGPnaybNWqeg21G5V0LFsVl2xYyGQuOY8F1bOSyNpa4NrpzGXSRkAsYHOjPj4yMfPTu6MFxy85kzOdtSAzEFPpiEMeKWqIvxuWpadTrPq9PD7/13ri50obEgFyEAVZOqSHvgQ\u002B2b6IIXWSzOaxft46Pt6lLzyAxQMSbGdAIQsw3ZCJ1X4L0oh5IEP\u002Bo1gUKhWU4sG8U44f2Y/fOHfrD/4BjRlU17CHz/82VGdyac80JsMKqY2L3ML68dA8PRJfZBVZlfXy4dUhVWicsJJniZm5biJb2JsLuh8wN/dL7fJtzwWXcCakqojrveC9Wtb9gXqOVbCkXYYDKXyWvBXuulAgr1hHEbft8wPv/R1GSA\u002B4DSZdzsLBr0wD8JhkkhZwbxB6dA2PvDCAQupPZc8vKQ/C8cwDpHPBToGko5LPoKbhY6eWw3FuCwis59Wx43Vks7XbxWt6lOy66XUcZ4vx1QqpMdQScr99ul/HDtSJ\u002BvF7E1B9F/Pr3rPKSuRakjJWy5/RTTrF0QlsVCcm0xvjzbhU/zXqYeuzhStnD72QwpDNJNHEhMF0xiZTsvTbSCakkhxSF9oZph0N9YISX9O6RMs0956s45yt5WPUx74co9Ax6fas3jLAg1zuslBJSFPHHTBOv2j3i9mBPVUmy0PznGw8RBD6E8NHf52Fi4tTGc19fnD57/rtprNr1qfk0ZYDffKVId7Tz7\u002B1EGNo4VxXNSdiFDW\u002B\u002BirW9XXg9Ty\u002BsTed\u002BgHszFXW/hYUcELFKCXG7Z/Mgju9YiyPvr8Gh7Wuwd8uQ2peUB8G8czhkQVDJVmoBZkkeVXyUSB5VGkajRluSVRKVEZ0LpdR4viC8pyMIqCrKtSYeVwNlqDynxzTachBy6ysP2VsaSSHvcadyw6kCoH02ymhSBLOkvMzK2RAJv7RpJJ0spMDVa3\u002BhWCqbN193sepmZdzs8ZovFN5Abb6JUtknxdp7HmvPGEj\u002B9Ff0DW2J4AyY5Qux/O0T5/pX9vYw74EIVTSCG5GkdP/qRdw5P2auvkwATwH5qMc\u002BQnI//gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-24T12:25:51.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Package.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\Package.dtsx",
+              "RelativeDocumentMoniker": "ssis-project\\Package.dtsx",
+              "ToolTip": "C:\\Users\\BAO NGOC\\OneDrive\\M\u00E1y t\u00EDnh\\INFO6002 Database 2\\Ass2\\SSIS\\ssis-project\\ssis-project\\Package.dtsx [Design]",
+              "RelativeToolTip": "ssis-project\\Package.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPaSURBVEhLtVVdaBRXFP5mdnbWZNvp\u002Bpc0iUmrSMQHnyoNrYpPVijEWFS0PvkkKCgKIYjYhxZEoZT6Uh9a\u002Bta\u002B2gYflLZECqUBi7UtIhVRNLSC68bdzWbdmb13Zjzn3ruTWe3WvPixh/s75\u002Bc759zFS0Ucx5aZ4tjJM5M7x8ZGoyiClhgypDEEZBwhDEMSGuksDGPM/PMAN2/e\u002BGTy2y8\u002Br1VKVaOmM46eOD1JihVIUSRJuxBh1GyGkd\u002BUUSOQ0RNfRvMNEdWeiOizr76PLlz\u002BpbZtz\u002BGPnaybNWqeg21G5V0LFsVl2xYyGQuOY8F1bOSyNpa4NrpzGXSRkAsYHOjPj4yMfPTu6MFxy85kzOdtSAzEFPpiEMeKWqIvxuWpadTrPq9PD7/13ri50obEgFyEAVZOqSHvgQ\u002B2b6IIXWSzOaxft46Pt6lLzyAxQMSbGdAIQsw3ZCJ1X4L0oh5IEP\u002Bo1gUKhWU4sG8U44f2Y/fOHfrD/4BjRlU17CHz/82VGdyac80JsMKqY2L3ML68dA8PRJfZBVZlfXy4dUhVWicsJJniZm5biJb2JsLuh8wN/dL7fJtzwWXcCakqojrveC9Wtb9gXqOVbCkXYYDKXyWvBXuulAgr1hHEbft8wPv/R1GSA\u002B4DSZdzsLBr0wD8JhkkhZwbxB6dA2PvDCAQupPZc8vKQ/C8cwDpHPBToGko5LPoKbhY6eWw3FuCwis59Wx43Vks7XbxWt6lOy66XUcZ4vx1QqpMdQScr99ul/HDtSJ\u002BvF7E1B9F/Pr3rPKSuRakjJWy5/RTTrF0QlsVCcm0xvjzbhU/zXqYeuzhStnD72QwpDNJNHEhMF0xiZTsvTbSCakkhxSF9oZph0N9YISX9O6RMs0956s45yt5WPUx74co9Ax6fas3jLAg1zuslBJSFPHHTBOv2j3i9mBPVUmy0PznGw8RBD6E8NHf52Fi4tTGc19fnD57/rtprNr1qfk0ZYDffKVId7Tz7\u002B1EGNo4VxXNSdiFDW\u002B\u002BirW9XXg9Ty\u002BsTed\u002BgHszFXW/hYUcELFKCXG7Z/Mgju9YiyPvr8Gh7Wuwd8uQ2peUB8G8czhkQVDJVmoBZkkeVXyUSB5VGkajRluSVRKVEZ0LpdR4viC8pyMIqCrKtSYeVwNlqDynxzTachBy6ysP2VsaSSHvcadyw6kCoH02ymhSBLOkvMzK2RAJv7RpJJ0spMDVa3\u002BhWCqbN193sepmZdzs8ZovFN5Abb6JUtknxdp7HmvPGEj\u002B9Ff0DW2J4AyY5Qux/O0T5/pX9vYw74EIVTSCG5GkdP/qRdw5P2auvkwATwH5qMc\u002BQnI//gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-24T12:13:39.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
